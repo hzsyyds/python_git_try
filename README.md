@@ -1,0 +1,2 @@
+# python_git_try
+仅供个人测试Python代码及Git的操作使用
